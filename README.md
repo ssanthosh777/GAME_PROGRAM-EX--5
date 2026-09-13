@@ -1,4 +1,8 @@
 # GAME_PROGRAM-EX--5
+```
+NAME: SANTHOSH S
+REG.NO: 212224100052
+```
 ## Making Player to collect the ammo and increase the bullet spawn count.
 ##  Aim
 To implement a gameplay feature where the player collects ammo pickups in the game world. Upon collecting ammo, the player's ammo count increases, enabling more bullet spawns (shots).
